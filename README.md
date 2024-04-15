@@ -1,0 +1,1 @@
+This code, created as part of my final year dissertation, depicts a modular apporach to the exploratory analysis of machine learning models for heart disease prediction. main_code contains the main program, whilst the other files contain the functions used in the main program.
